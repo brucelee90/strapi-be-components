@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_hero_new_components",
+  "info": {
+    "displayName": "New Component",
+    "icon": "alien"
+  },
+  "options": {},
+  "attributes": {
+    "testText": {
+      "type": "string"
+    },
+    "testMedia": {
+      "type": "media",
+      "multiple": true,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  },
+  "config": {}
+}
