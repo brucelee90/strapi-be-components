@@ -1,0 +1,14 @@
+{
+  "kind": "singleType",
+  "collectionName": "testtests",
+  "info": {
+    "singularName": "testtest",
+    "pluralName": "testtests",
+    "displayName": "testtest"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {}
+}
