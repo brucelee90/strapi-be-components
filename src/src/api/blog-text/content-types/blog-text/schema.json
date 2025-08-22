@@ -1,0 +1,14 @@
+{
+  "kind": "collectionType",
+  "collectionName": "blog_texts",
+  "info": {
+    "singularName": "blog-text",
+    "pluralName": "blog-texts",
+    "displayName": "Blog Text"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {}
+}
